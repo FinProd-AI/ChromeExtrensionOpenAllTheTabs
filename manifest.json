@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Open Synced Tabs",
+    "version": "0.1.0",
+    "description": "Open tabs from your other synced devices.",
+    "permissions": [
+      "tabs",
+      "sessions",
+      "storage"
+    ],
+    "action": {
+      "default_title": "Open Tabs From Devices",
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/Icon_open_all_tabs_large_16.png",
+        "48": "icons/Icon_open_all_tabs_large_48.png",
+        "128": "icons/Icon_open_all_tabs_large_128.png"
+      }
+    },
+    "icons": {
+      "128": "icons/Icon_open_all_tabs_large_128.png"
+    }
+  }
+  
