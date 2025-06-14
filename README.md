@@ -2,7 +2,9 @@
 
 Transfer and open tabs from different synchronized Chrome devices
 
-## Installation
+---
+
+## 📦 Installation
 
 Google Chrome: add the extension
 
@@ -18,13 +20,17 @@ Google Chrome: add the extension
    - Click "Open all Tabs" to open every tab from that device at once
    - Or click individual tabs to open them one by one
 
-## Requirements
+---
+
+## ✅ Requirements
 
 - Google Chrome browser
 - Google account with Chrome sync enabled
 - Active internet connection
 
-## Notes
+---
+
+## 📝 Notes
 
 - The extension requires permission to access your tabs and sessions
 - All tabs will open in your current Chrome window
