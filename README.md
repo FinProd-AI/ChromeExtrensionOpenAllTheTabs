@@ -1,6 +1,6 @@
-# Chrome Extension: Open All Synced Tabs
+# Tab Teleporter
 
-Transfer and open tabs from different synchronized Chrome devices
+Instantly transfer and open tabs from your synced Chrome devices with a single click.
 
 ---
 
@@ -40,4 +40,4 @@ Google Chrome: add the extension
 
 ## 📚 Version history
 
-- 0.1.0 First release
+- 1.0.0 First release

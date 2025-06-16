@@ -1,24 +1,24 @@
 {
     "manifest_version": 3,
-    "name": "Open Synced Tabs",
-    "version": "0.1.0",
-    "description": "Open all tabs from your other synced devices at once.",
+    "name": "Tab Teleporter",
+    "version": "1.0",
+    "description": "Instantly transfer and open all synced tabs from your Chrome devices at once.",
     "permissions": [
       "tabs",
       "sessions",
       "storage"
     ],
     "action": {
-      "default_title": "Open All Tabs From Devices",
+      "default_title": "Tab Teleporter",
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "icons/Icon_open_all_tabs_large_16.png",
-        "48": "icons/Icon_open_all_tabs_large_48.png",
-        "128": "icons/Icon_open_all_tabs_large_128.png"
+        "16": "icons/Icon_Tab_Teleporter_large_16.png",
+        "48": "icons/Icon_Tab_Teleporter_large_48.png",
+        "128": "icons/Icon_Tab_Teleporter_large_128.png"
       }
     },
     "icons": {
-      "128": "icons/Icon_open_all_tabs_large_128.png"
+      "128": "icons/Icon_Tab_Teleporter_large_128.png"
     }
   }
   
